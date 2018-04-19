@@ -1,0 +1,13 @@
+make menu overlay (both main menu and pause menu)
+
+handle pause in the gameLoop
+handle pause outside the gameLoop
+
+show timer
+
+balance levels
+
+try to get it in a webview see if it runs on mobile
+
+make play area resizable, but proportional to mobile screens
+colorful border on canvas

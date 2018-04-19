@@ -1,0 +1,14 @@
+Levels
+  increase speeds in each level
+  increase no of balls to burst per level
+    balls requirement
+  decrease time for some levels (maybe)
+  some balls require multiple clicks (per colour maybe)
+
+Powerups
+  three in a row of same color - bonus points
+  bomb balls that kill all of same colour on screen (introduce them after 5 levels won)
+
+Pointing
+  bursting increases score
+  some balls worth more (based on level perhaps?)
